@@ -1,2 +1,3 @@
 # Dog Breed Prediction Flask App
  
+Our Dog Breed Prediction project leveraged Python's machine learning capabilities, employing Convolutional Neural Networks (CNN) for image classification. With the dataset, we trained a model that achieved a commendable level of accuracy. Moreover, we took it a step further by creating a user-friendly Flask web application. This app allows users to upload dog images, and it accurately predicts the breed of the dog, making it a valuable tool for dog enthusiasts and pet owners.
